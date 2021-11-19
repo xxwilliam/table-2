@@ -4,7 +4,7 @@
 <style>
 table, th, td {
   border:1px solid Red;
-  border-collapse: collapse;
+  
 }
 </style>
 <body>
