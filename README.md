@@ -67,18 +67,16 @@ table, th, td {
     
     <p><b>PERSONAL DEVELOPMENT</b></p>
     <p>Provides ongoing personal development within the scope of the referee-coach profession and business strategies to help develop new skillsand to stay up-to-date. These include:</p>
-
-
-
 <p> &#9900; Finding comfort in public speaking</p>
 <p> &#9900; Enhancing the customer experience</p>
 <p> &#9900; Performance management</p>
 <p> &#9900; Setting goals</p>
 <p> &#9900; Communication skills</p>
+      
 <p>Reference: 20 professional Development Topics That Can Help You in the Workplace. www.indeed.com</p>
 
 <p><b>PROFESSIONAL DEVELOPMENT</b></p>
-<p> &#9900; provides ongoing development for personal growth, confidence and mental health.
+      <p> &#9900; provides ongoing development for personal growth, confidence and mental health.</p>
 <p> &#9900; Active Listening</p>
 <p> &#9900; Personal SWOT</p>
 <p> &#9900; Explore Your Values</p>
@@ -91,7 +89,7 @@ table, th, td {
 <td><p><b>FULL Access</b> is permitted to the "Tools" header.</p>
 <p> The "Tools" hearder will have a dropdown menu, comprising of.</p>
 <p><b> CUSTOMISED FORMS</b></p>
-<p> Our <b>"Customerised Forms"</b> is the start of......<p>
+<p> Our <b>"Customerised Forms"</b> is the start of......</p>
 
 </td>
 </tr>
@@ -106,10 +104,8 @@ table, th, td {
 <td><b>LOGIN</b></td>
 <td><p><b>GENERAL Access and Full Access</b> is permitted to the "LOGIN" header.</p>
 
-</td></tr>
-
-
-
+</td>
+</tr>
 
 
     
