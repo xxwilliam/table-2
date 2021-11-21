@@ -3,7 +3,7 @@
 <html>
 <style>
 table, th, td {
-  border:1px solid Red;
+  border:2px solid Red;
   
 }
 </style>
@@ -18,7 +18,7 @@ table, th, td {
     
   </tr>
   <tr>
-    <td><b>The Plan</b></td>
+    <th><b>The Plan</b></th>
     <td><p>Develop a website where referees and officials of all sports have
         a platform where everything from:</p>
         <p>&#9733;   Login page</p>
@@ -39,7 +39,7 @@ table, th, td {
         
   </tr>
   <tr>
-    <td><b>Home Page</b></td>
+    <th><b>Home Page</b></th>
     <td><P>The home page will consist of a welcoming image cover and headers (navigation bar) of the website</P>
     
     <P><b>general access</b> is ONLY permitted to the following headers:</P>
@@ -49,7 +49,7 @@ table, th, td {
     </td>
     </tr>
     <tr>
-    <td><b>About</b></td>
+    <th><b>About</b></th>
     <td><p><b>General access and fill access</b> is permitted to "About" header.</p>
     <p>The "About" header will have a dropdown menu, comprising of</p>
     <p><b>&#9733; ABOUT US</b></p>
@@ -60,7 +60,7 @@ table, th, td {
     </td>
     </tr>
     <tr>
-    <td><b>Training</b></td>
+    <th><b>Training</b></th>
     <td><p><b>Full Access</b>is permitted to the "Training" header. The "Training" header will have a dropdown menu, comprising of.</p>
     <p><b>ACCREDITATION TRAINING</b></p>
     <p>Our<b> "ACCREDITATION training"</b> is a really important tool for  new and upcoming referees.</p>
@@ -85,7 +85,7 @@ table, th, td {
 </td>
 </tr>
 <tr>
-<td><b>tools</b></td>
+<th><b>tools</b></th>
 <td><p><b>FULL Access</b> is permitted to the "Tools" header.</p>
 <p> The "Tools" hearder will have a dropdown menu, comprising of.</p>
 <p><b> CUSTOMISED FORMS</b></p>
@@ -94,14 +94,14 @@ table, th, td {
 </td>
 </tr>
 <tr>
-<td><b>Contact</b></td>
+<th><b>Contact</b></th>
 <td><p><b>GENERAL Access and Full Access</b> is permitted to the 'Contact  Us' header.</p>
 <p>The "contact us" header will have a dropdown menu, comprising of.</p>
 
 </td>
 </tr>
 <tr>
-<td><b>LOGIN</b></td>
+<th><b>LOGIN</b></th>
 <td><p><b>GENERAL Access and Full Access</b> is permitted to the "LOGIN" header.</p>
 
 </td>
