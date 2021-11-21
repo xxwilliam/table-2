@@ -35,10 +35,7 @@ table, th, td {
         <p> And more...as we run trials on the website development phase and changes are identified.</p></td>
         
     
-  </tr>
-  <tr>
-    <td></td>
-    <td>This is where we unpack every element of the website and how the above bullet points are developed and what they will be used for</td>
+ 
         
   </tr>
   <tr>
@@ -95,33 +92,20 @@ table, th, td {
 <p> The "Tools" hearder will have a dropdown menu, comprising of.</p>
 <p><b> CUSTOMISED FORMS</b></p>
 <p> Our <b>"Customerised Forms"</b> is the start of......<p>
-<p><b>REPORTING</b></p>
-<p> &#9900;.........</p>
-<p><b>OFFICIAL RULES</b></p>
-<p> &#9900;.........</p>
-<p><b>POLICIES AND PROCEDURES</b></p>
-<p> &#9900;.........</p>
-<p><b>ASSOCIATION BYLAWS</b></p>
-<p> &#9900;.........</p>
+
 </td>
 </tr>
 <tr>
 <td><b>Contact</b></td>
 <td><p><b>GENERAL Access and Full Access</b> is permitted to the 'Contact  Us' header.</p>
 <p>The "contact us" header will have a dropdown menu, comprising of.</p>
-<p><b>CONTACT US</b></p>
-<p> &#9900;.......<p>
-<p><b>BECOME A REFEREE PARTNER</b></p>
-<p> &#9900;.......<p>
-<p><b>FEEDBACK</b></p>
-<p> &#9900;.......<p>
+
 </td>
 </tr>
 <tr>
 <td><b>LOGIN</b></td>
 <td><p><b>GENERAL Access and Full Access</b> is permitted to the "LOGIN" header.</p>
-<p><b>LOGIN DETAILS</b></p>
-<p> &#9900;.......</p>
+
 </td></tr>
 
 
